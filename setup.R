@@ -4,3 +4,4 @@ dir.create("R")
 usethis::use_package_doc()
 usethis::use_roxygen_md()
 
+usethis::use_package()
